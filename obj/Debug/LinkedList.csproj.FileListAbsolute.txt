@@ -1,0 +1,6 @@
+c:\users\tord\documents\visual studio 2012\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+c:\users\tord\documents\visual studio 2012\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+c:\users\tord\documents\visual studio 2012\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+c:\users\tord\documents\visual studio 2012\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+c:\users\tord\documents\visual studio 2012\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+c:\users\tord\documents\visual studio 2012\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
