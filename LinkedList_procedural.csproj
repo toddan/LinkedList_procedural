@@ -7,8 +7,8 @@
     <ProjectGuid>{005696E0-E9AE-4B1E-9605-5287B509280C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LinkedList</RootNamespace>
-    <AssemblyName>LinkedList</AssemblyName>
+    <RootNamespace>LinkedList_procedural</RootNamespace>
+    <AssemblyName>LinkedList_procedural</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
